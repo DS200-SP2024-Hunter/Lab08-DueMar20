@@ -1,0 +1,657 @@
+Run,Finishing Time In Minutes,Identifies As Female,Age,Name,City,State
+AF,17.617,FALSE,27,Andy Cunningham,State College,PA 
+AF,18.067,FALSE,49,S Mark Courtney,Grove City,PA 
+AF,18.583,FALSE,46,Terry Reid,Bellefonte,PA 
+AF,18.717,FALSE,15,Justin Rupert,Wellsboro,PA 
+AF,18.8,TRUE,35,Kate Fonshell,Ardmore,PA 
+AF,18.8,TRUE,36,Amanda Mitchell,Ardmore,PA 
+AF,19.267,FALSE,20,Chris Ruggiero,State College,PA 
+AF,19.35,FALSE,24,Gavin Kilduff,Berkeley,CA 
+AF,19.467,TRUE,40,Lynne Knobloch,Crystal Lake ,
+AF,19.533,TRUE,35,Mary Shultz,Berwyn,PA 
+AF,19.567,FALSE,15,Michael Vido,Erdenheim,PA 
+AF,20.017,FALSE,15,Christian Peoples,State College,PA 
+AF,20.033,FALSE,20,David Burkhardt,Sudbury,MA 
+AF,20.417,FALSE,21,Tyler Otero,Lewistown,PA 
+AF,20.567,FALSE,39,Noel Heitman,Lancaster,PA 
+AF,20.817,TRUE,12,Chloe Schmidt,State College,PA 
+AF,20.85,FALSE,14,Timothy Coyle,,
+AF,20.9,TRUE,31,Meira Minard,,
+AF,21.067,FALSE,29,Kolson Schlosser,Statte College,PA 
+AF,21.6,FALSE,56,Martin Kilduff,State College,PA 
+AF,21.617,FALSE,44,Richard Page,State College,PA 
+AF,22.033,FALSE,38,Andy Clark,Jericho,VT 
+AF,22.117,FALSE,45,Bill Lloyd,,
+AF,22.2,FALSE,55,Bob Richey,Warmister,PA 
+AF,22.5,FALSE,13,Kendall Ward,Port Matilda,PA 
+AF,22.517,FALSE,19,Kasey Toomey,Altoona,PA 
+AF,22.6,TRUE,23,Amanda Skrabut,State College,PA 
+AF,22.833,TRUE,42,Diane Travers,Caldwell,NJ 
+AF,22.9,FALSE,23,Felipe Mells-E-Sousa,State College,PA 
+AF,22.95,TRUE,50,Linoa Collins,,
+AF,23.017,FALSE,42,Scott Peterson,,
+AF,23.083,FALSE,57,Roger Rickard,Port Matilda,PA 
+AF,23.117,FALSE,11,Connor Sidebottom,West Chester,PA 
+AF,23.117,FALSE,35,Tim Brucker,,
+AF,23.117,FALSE,40,David Wagner,Plano,TX 
+AF,23.2,FALSE,31,Robert Suter,Germantown,MD 
+AF,23.317,FALSE,24,David King,State College,PA 
+AF,23.35,TRUE,44,Amy Sten,,
+AF,23.367,FALSE,44,Craig Ilgen,Charleston,SC 
+AF,23.4,FALSE,42,Scott Good,State College,PA 
+AF,23.5,FALSE,22,Timo Mechler,State College,PA 
+AF,23.617,FALSE,44,Edward Holmes,,
+AF,23.7,FALSE,17,Sean Loner,Williamsport,PA 
+AF,23.8,FALSE,63,Terry Derk,Dauphin,PA 
+AF,23.867,FALSE,25,Jonathan Lemartia,State College,PA 
+AF,24.033,FALSE,53,Dave Bechdel,,
+AF,24.067,FALSE,15,Clint Dunn,Daytona Beach,FL 
+AF,24.1,TRUE,38,Rachel Urwin,State College,PA 
+AF,24.483,TRUE,18,Cassie Niebel,State College,PA 
+AF,24.783,FALSE,27,Matthew Heinz,,
+AF,24.867,TRUE,33,Tris Serenko,Portagef ,
+AF,24.933,TRUE,24,Jennelle Heyer,State College,PA 
+AF,24.967,FALSE,48,Bill Wortman,Bellefonte,PA 
+AF,24.983,TRUE,36,Melissa Hall,,
+AF,25.017,FALSE,45,Steve Maczuga,Spring Mills,PA 
+AF,25.05,TRUE,17,Krysta Koubek,Port Matilda,PA 
+AF,25.05,FALSE,34,Doug Aukerman,State College,PA 
+AF,25.133,TRUE,38,Jody Whipple,State College,PA 
+AF,25.167,TRUE,48,Roana Fuller,Pine Grove Mills,PA 
+AF,25.183,TRUE,27,Jodi Younkin,State College,PA 
+AF,25.433,FALSE,9,Seamus Wagner,State College,PA 
+AF,25.467,TRUE,32,Melanie Williamson,Bluffington,SC 
+AF,25.533,FALSE,56,Dennis Younkin,State College,PA 
+AF,25.583,TRUE,44,Carolyn Donaldson,Hollidayburg ,
+AF,25.6,FALSE,15,Brandon Hallberg,Port Matilda,PA 
+AF,25.667,TRUE,14,Rebekah Cordell,State College,PA 
+AF,25.85,FALSE,13,James Wagner,Plano,TX 
+AF,25.867,FALSE,14,Luke Porter,State College,PA 
+AF,25.867,FALSE,24,Chris Schetle,,
+AF,25.883,FALSE,58,John Knepley,Millersville,MD 
+AF,25.883,TRUE,62,Karin Constant,State College,PA 
+AF,25.967,FALSE,12,Andrew Bechdel,,
+AF,26.117,FALSE,39,Wei-Chung Chang,State College,PA 
+AF,26.133,FALSE,13,Tanner Curley,Boalsburg,PA 
+AF,26.133,FALSE,39,Patrick McDaniel,State College,PA 
+AF,26.25,FALSE,15,Ben Martin,Lemont,PA 
+AF,26.333,FALSE,56,Byron Worthen,Mechanicsburg,PA 
+AF,26.383,FALSE,17,Cody Long,Bellefonte,PA 
+AF,26.433,FALSE,45,Peter Fleming,State College,PA 
+AF,26.467,FALSE,37,Samuel Gross,Bluffington,SC 
+AF,26.483,TRUE,42,Lorella Thomas,,
+AF,26.483,TRUE,61,Paula Jech,State College,PA 
+AF,26.583,FALSE,48,Karl Leizel,Spring Mills,PA 
+AF,26.833,TRUE,27,Jessica Martin,Spring Mills,PA 
+AF,26.883,TRUE,42,Lorna Arocena,State College,PA 
+AF,27.033,TRUE,53,Winnifred Younkin,Sta,PA 
+AF,27.05,FALSE,39,Jj Chiusano,State College,PA 
+AF,27.183,FALSE,36,William Ward,Chalfont,PA 
+AF,27.433,TRUE,23,Laura Rosenberger,State College,PA 
+AF,27.5,TRUE,20,Amanda Buckwalter,Lititz,PA 
+AF,27.5,FALSE,20,Trevor Smith,State College,PA 
+AF,27.567,FALSE,45,John Hook,Yardley,PA 
+AF,27.6,TRUE,44,Trudy Hinist,Williamsburg,PA 
+AF,27.65,FALSE,43,Scott Irwin,Port Matilda,PA 
+AF,27.75,FALSE,44,Joseph Benz,State College,PA 
+AF,27.783,TRUE,28,Sara Boughrum,Haverford,PA 
+AF,27.883,FALSE,48,Jeff Stringer,Bellefonte,PA 
+AF,27.9,FALSE,33,Phil Heverly,Pleasant Gap,PA 
+AF,27.933,FALSE,49,Darrell Furfaro,,
+AF,27.95,FALSE,39,Andreww Martin,Port Matilda,PA 
+AF,28,FALSE,22,Kristopher Yountz,State College,PA 
+AF,28,TRUE,23,Abby White,Indiana,PA 
+AF,28.05,TRUE,24,Adria Wetherhold,Emmaus,PA 
+AF,28.25,FALSE,61,Thomas Jech,State College,PA 
+AF,28.35,FALSE,16,Ross Chernega,State College,PA 
+AF,28.35,FALSE,42,Tim Roberts,,
+AF,28.367,TRUE,20,Christie Prince,State College,PA 
+AF,28.4,TRUE,18,Carin Fisher,State College,PA 
+AF,28.4,TRUE,35,Sharon Lester,,
+AF,28.45,FALSE,59,Jack Klein,Spring Grove,PA 
+AF,28.533,FALSE,20,Greg Turner,Downingtown,PA 
+AF,28.567,TRUE,17,Sarah Mazzocchi,State College,PA 
+AF,28.6,TRUE,42,Dawn Comly,Port Royal,PA 
+AF,28.6,FALSE,47,Jack Chernega,State College,PA 
+AF,28.633,TRUE,12,Katie Balmer,Wallingford,PA 
+AF,28.7,TRUE,38,Nancy Givens,,
+AF,28.7,TRUE,39,Pam Fedon,Centre Hall,PA 
+AF,28.817,FALSE,43,Chip Mock,State College,PA 
+AF,28.883,TRUE,27,Sarah Hamilton,Mechanisville,MD 
+AF,28.95,FALSE,13,Charlie Page,State College,PA 
+AF,28.95,FALSE,52,Peter Hudson,Port Matilda,PA 
+AF,28.967,TRUE,52,Mary Hudda,Port Matilda,PA 
+AF,29,FALSE,36,Hugh Mose,State College,PA 
+AF,29.1,TRUE,26,Christine Sefchick,State College,PA 
+AF,29.1,TRUE,49,Betsy Corwin,Columbus,OH 
+AF,29.117,TRUE,36,Cari Gustafson,Port Matilda,PA 
+AF,29.117,TRUE,38,Ann Luck,Port Matilda,PA 
+AF,29.233,FALSE,8,Patrick Bachman,Boalsburg,PA 
+AF,29.3,FALSE,45,Jerry Hinkle,Landsale,PA 
+AF,29.367,FALSE,23,Terence Yang,State College,PA 
+AF,29.45,FALSE,17,Jason Aukerman,State College,PA 
+AF,29.467,TRUE,45,Katherine Allen,State College,PA 
+AF,29.483,TRUE,45,Kim Nelson,State College,PA 
+AF,29.667,FALSE,41,Charles Fuller,State College,PA 
+AF,29.867,FALSE,34,Todd Litzinger,State College,PA 
+AF,30.15,FALSE,11,Andrew Bachman,Boalsburg,PA 
+AF,30.217,TRUE,52,Deborah Grove,Petersburg,PA 
+AF,30.3,TRUE,42,Ann Fleming,State College,PA 
+AF,30.333,FALSE,31,David Narehood,State College,PA 
+AF,30.367,FALSE,43,Mike Frandsen,Albion,MI 
+AF,30.4,FALSE,56,Duncan Greenshields,,
+AF,30.467,TRUE,52,Janice McLawlin,,
+AF,30.633,FALSE,41,Greg Myford,Port Matilda,PA 
+AF,30.667,FALSE,13,Micah Porter,State College,PA 
+AF,30.883,TRUE,37,Nancy Long,Bellefonte,PA 
+AF,31.017,TRUE,29,Stacee Frost,,
+AF,31.017,TRUE,47,Donna Holmes,,
+AF,31.033,TRUE,43,Anne Milasincic Andrews,State College,PA 
+AF,31.083,TRUE,40,Isabella Cattadori,State College,PA 
+AF,31.1,TRUE,39,Anna Supina,Port Matilda,PA 
+AF,31.133,TRUE,27,Kristen Bruck,Center Valley,PA 
+AF,31.133,TRUE,49,Gloria Gladd,State College,PA 
+AF,31.15,TRUE,13,Morgan Wilson,,
+AF,31.15,TRUE,46,Deborah Poveromo,State College,PA 
+AF,31.25,TRUE,22,Kristle Krichbaum,State College,PA 
+AF,31.267,FALSE,38,John Ewton,Port Matilda,PA 
+AF,31.4,TRUE,25,Katie Gatto,Gibsonia,PA 
+AF,31.417,TRUE,38,Pamela Fuller,State College,PA 
+AF,31.467,FALSE,45,Eric Whitney,State College,PA 
+AF,31.667,TRUE,50,Sue Everett,Muncy,PA 
+AF,31.683,FALSE,12,Levi Spigelmyer,,
+AF,31.683,FALSE,12,Aiden Stromer,,
+AF,31.75,FALSE,50,Tom Skibinski,State College,PA 
+AF,31.8,TRUE,11,Gretchen Hollberg,Port Matilda,PA 
+AF,31.8,TRUE,38,Steve Rocco,,
+AF,32.1,FALSE,9,Mitchell Lester,,
+AF,32.1,FALSE,43,Ray Mazzocchi,State College,PA 
+AF,32.133,TRUE,43,Anita Woodman,State College,PA 
+AF,32.183,TRUE,31,Kimberly Sneath,,
+AF,32.25,TRUE,24,Brittany Rhoades,State College,PA 
+AF,32.25,TRUE,24,Megan Patrick,State College,PA 
+AF,32.45,FALSE,24,Gideon Schwartz,Julian,PA 
+AF,32.5,FALSE,34,Joe Clark,State College,PA 
+AF,32.55,TRUE,36,Anne Boal,,
+AF,32.7,TRUE,32,Sarah Perkins,State College,PA 
+AF,32.75,FALSE,58,James Morrow,State College,PA 
+AF,33.3,TRUE,42,Nancy Hallberg,Port Matilda,PA 
+AF,33.533,TRUE,15,Madi Mock,State College,PA 
+AF,33.85,TRUE,40,Denise Weaver,,
+AF,33.967,FALSE,12,Garrett Wagner,State College,PA 
+AF,34.033,TRUE,57,Jan Miles,State College,PA 
+AF,34.317,FALSE,59,Thomas Harmon,State College,PA 
+AF,34.583,FALSE,12,Joe Woodman,State College,PA 
+AF,35.333,TRUE,44,Rita Larocca-Mahoney,,
+AF,35.333,TRUE,56,Barbara Gerbec,Canonsburg,PA 
+AF,35.4,TRUE,20,Kitty Hudson,Port Matilda,PA 
+AF,35.417,TRUE,33,Eleca Dunham,State College,PA 
+AF,35.517,TRUE,27,Joeleen Davis,Bellfonte,PA 
+AF,35.65,TRUE,47,Cindy Balmer,Wallingford,PA 
+AF,36.367,FALSE,39,Keith Bauer,Frederick,MD 
+AF,36.5,TRUE,28,Karin Bauer,Frederick,MD 
+AF,36.533,TRUE,44,Jackie Hook,Yardley,PA 
+AF,36.85,TRUE,21,Jen Rygel,State College,PA 
+AF,36.967,TRUE,50,Kathy Stocker,State College,PA 
+AF,37.067,TRUE,21,Melissa Wilson,State College,PA 
+AF,37.133,TRUE,59,Judy Andronici,Centre Hall,PA 
+AF,37.167,TRUE,13,Victoria Begg,State College,PA 
+AF,37.417,FALSE,14,Wesley Milliron,Snow Shoe,PA 
+AF,37.483,FALSE,49,Kevin Mahoney,,
+AF,37.967,TRUE,55,Kate Zeigler,State College,PA 
+AF,38.25,TRUE,21,Megan Comerford,,
+AF,38.25,TRUE,55,Karen Neff,,
+AF,38.65,TRUE,53,Barbara Arnold,,
+AF,38.7,TRUE,24,Erica Milliron,Snow Shoe,PA 
+AF,38.967,TRUE,43,Patti Begg,State College,PA 
+AF,39.25,FALSE,74,Tom Huntley,State College,PA 
+AF,41.383,TRUE,52,Roe Davis,Mertztown,PA 
+AF,41.4,TRUE,25,Kerri Clark,,
+AF,44.1,TRUE,35,Anisa Mendiazabal,South Pasedena,CA 
+AF,44.1,TRUE,40,Karen Shepherd,Los Angeles,CA 
+AF,46.017,TRUE,28,Jessica Rupert,Chesapeake,VA 
+AF,50.15,TRUE,49,Caroline Tseo,State College,PA 
+AF,53.533,FALSE,60,Tom Neff,,
+AF,56.083,TRUE,58,Anna Marie Croney,Fort Washinton,PA 
+AF,56.083,TRUE,62,Susan Coetzee,State College,PA 
+AF,78.767,FALSE,38,Sean Lukens,State College,PA 
+AF,78.767,FALSE,74,Donald Hopkins,State College,PA 
+FN,16.4,FALSE,25,Stephen Gross,Berkeley,CA 
+FN,16.433,FALSE,35,Erik Scott,State College,PA 
+FN,17.333,FALSE,22,Ben Niebel,State College,PA 
+FN,17.4,FALSE,20,Ian McLaren,State College,PA 
+FN,17.517,FALSE,17,Matt Kisenwether,State College,PA 
+FN,17.667,FALSE,18,Matt Groves,State College,PA 
+FN,17.667,FALSE,35,Bob Radzwich,Pa Furnace,PA 
+FN,17.733,FALSE,40,Ken Davis,Warriors Mark,PA 
+FN,17.783,FALSE,37,Rob Guissanie,Lewisburg,PA 
+FN,17.883,FALSE,27,Andy Cunningham,State College,PA 
+FN,18.033,FALSE,41,John Domico,Boalsburg,PA 
+FN,18.083,FALSE,51,Tom Cali,State College,PA 
+FN,18.183,FALSE,20,Jared Bender,State College,PA 
+FN,18.233,FALSE,13,Paul Crowe,Boalsburg,PA 
+FN,18.25,TRUE,28,Donna Palisca,Ft Knox,KY 
+FN,18.583,FALSE,16,Paul Kernfeld,State College,PA 
+FN,18.617,FALSE,21,Shawn Henderson,Pa Furnace,PA 
+FN,18.617,FALSE,36,Mark Fedkin,State College,PA 
+FN,18.65,FALSE,15,Alex Krichels,Boalsburg,PA 
+FN,18.683,FALSE,33,Douglas Hoover,Williamsburg,PA 
+FN,18.733,FALSE,43,Judd Michael,Lemont,PA 
+FN,18.783,FALSE,53,Randy Stroble,Trout Run,PA 
+FN,18.8,FALSE,23,Joe Whitman,Bellefonte,PA 
+FN,18.817,TRUE,16,Katherine Ward,Port Matilda,PA 
+FN,18.9,FALSE,47,Gary Ishler,Lewistown,PA 
+FN,19.033,FALSE,25,Chris Plominski,Hatfield,PA 
+FN,19.033,FALSE,41,Troy Raker,Mooresville,NC 
+FN,19.117,FALSE,15,Dan Nafziger,Harrisonburg,VA 
+FN,19.25,FALSE,18,Andrew Shafranien,,
+FN,19.45,TRUE,16,Edel Crowe,Boalsburg,PA 
+FN,19.467,FALSE,24,Joseph Kleha,State College,PA 
+FN,19.6,FALSE,35,Andrew Maguire,State College,PA 
+FN,19.8,FALSE,41,Marty Bollinger,State College,PA 
+FN,19.817,FALSE,35,Todd Miner,State College,PA 
+FN,19.85,TRUE,32,Meira Minard,State College,PA 
+FN,19.867,FALSE,45,Jim Moore,State College,PA 
+FN,19.9,FALSE,42,Scott Etter,State College,PA 
+FN,19.933,FALSE,14,Collin Love,Boalsburg,PA 
+FN,19.933,FALSE,16,Jake Reddington,State College,PA 
+FN,20.083,FALSE,47,Jack McKernan,Williamsport,PA 
+FN,20.1,FALSE,45,Peter Flemings,State College,PA 
+FN,20.133,FALSE,50,Bill Burd,Williamsport,PA 
+FN,20.25,FALSE,48,Jim Kisenwether,State College,PA 
+FN,20.267,FALSE,51,Earl Lake,Pa Furnace,PA 
+FN,20.433,FALSE,15,Michael Williams,State College,PA 
+FN,20.45,FALSE,50,Tom Hilands,State College,PA 
+FN,20.483,TRUE,46,Evelynn Ellis,State College,PA 
+FN,20.567,FALSE,40,Timothy Spigelmyer,McClure,PA 
+FN,20.667,FALSE,30,Ben Scott,Milesburg,PA 
+FN,20.75,FALSE,16,Anthony Coglionese,,
+FN,20.767,FALSE,51,Lester Loner,Williamsport,PA 
+FN,20.783,FALSE,28,Nathan Palisca,Ft Knox,KY 
+FN,20.817,FALSE,37,David Groth,Port Matilda,PA 
+FN,20.883,TRUE,23,Morgan Windram,State College,PA 
+FN,20.883,FALSE,35,Alistair Geddes,State College,PA 
+FN,20.95,FALSE,27,Jaime Jackson,Lancaster,PA 
+FN,20.967,FALSE,48,Martin` Klanchar,State College,PA 
+FN,20.983,FALSE,18,Sean Loner,Williamsport,PA 
+FN,20.983,FALSE,19,Andy Mazur,State College,PA 
+FN,21.067,FALSE,14,Andrew Eck,State College,PA 
+FN,21.217,FALSE,52,Paul Hutchison,State College,PA 
+FN,21.267,FALSE,26,Tim Kline,State College,PA 
+FN,21.467,FALSE,55,Jeff Rauff,Montoursville,PA 
+FN,21.517,TRUE,40,Karen Ward,Port Matilda,PA 
+FN,21.55,FALSE,38,Michael Lee,State College,PA 
+FN,21.6,FALSE,44,John Pringle,State College,PA 
+FN,21.667,FALSE,16,Brad Woodman,State College,PA 
+FN,21.7,FALSE,38,Stephen Geyer,Bellefonte,PA 
+FN,21.733,FALSE,48,Martin Mazur,State College,PA 
+FN,21.833,FALSE,20,Alex Jaffe,State College,PA 
+FN,21.867,FALSE,47,Mike Casper,State College,PA 
+FN,21.917,FALSE,14,Paul N Wells,State College,PA 
+FN,21.933,FALSE,35,Mike Phillippe,State College,PA 
+FN,21.95,FALSE,36,James Williamson,Philipsburg,PA 
+FN,21.983,FALSE,30,Andrew Lloyd,Pa Furnace,PA 
+FN,22,FALSE,14,Chris McNaughton,State College,PA 
+FN,22.017,FALSE,50,Robert Boozer,Centre Hall,PA 
+FN,22.1,FALSE,38,Tom Kapinus,Reedsville,PA 
+FN,22.133,FALSE,12,Nikita Fedkin,State College,PA 
+FN,22.2,TRUE,21,Erica Marshall,State College,PA 
+FN,22.217,FALSE,13,Aron Griffin,State College,PA 
+FN,22.217,FALSE,16,Evan Griffin,State College,PA 
+FN,22.217,FALSE,29,Doug Perry,State College,PA 
+FN,22.233,FALSE,58,Dan Guss,State College,PA 
+FN,22.25,TRUE,18,Katie Kump,Boalsburg,PA 
+FN,22.267,FALSE,37,Paul Mount,Port Matilda,PA 
+FN,22.283,FALSE,46,John Lacombe,State College,PA 
+FN,22.35,TRUE,29,Tara Murray,State College,PA 
+FN,22.35,FALSE,43,Rick Leuschner,Harrisburg,PA 
+FN,22.4,FALSE,22,Andrew Bair,Valparaiso,FL 
+FN,22.467,TRUE,23,Alyssa Gaebel,State College,PA 
+FN,22.5,FALSE,10,Kyle Poorman,State College,PA 
+FN,22.583,FALSE,45,Mike Poorman,State College,PA 
+FN,22.583,FALSE,48,Leif Jensen,State College,PA 
+FN,22.6,TRUE,43,Rebbeca Herman,Altoona,PA 
+FN,22.617,FALSE,46,Lee Kump,Boalsburg,PA 
+FN,22.617,FALSE,49,Janusz Sikora,State College,PA 
+FN,22.65,FALSE,40,Marc McCann,Pennsylvania Furn,PA 
+FN,22.667,FALSE,32,Tim Mohr,Carlisle,PA 
+FN,22.733,FALSE,31,Matt Lawrence,Bellefonte,PA 
+FN,22.733,FALSE,33,Ben Lawrence,State College,PA 
+FN,22.783,FALSE,10,Seamus Wagner,State College,PA 
+FN,22.783,FALSE,10,Michael Decker,Woodward,PA 
+FN,22.85,FALSE,39,Mike Lucas,Blanchard,PA 
+FN,22.85,FALSE,44,Dan Ahern,Lewistown,PA 
+FN,22.867,FALSE,19,Colin Cillardi,Dubois,PA 
+FN,22.9,FALSE,56,Scott Smith,State College,PA 
+FN,22.917,FALSE,18,Jackob Kapinus,Centre Hall,PA 
+FN,22.917,FALSE,50,John Melonas,Port Matilda,PA 
+FN,22.917,FALSE,51,Robert Kapinus,Centre Hall,PA 
+FN,22.95,FALSE,47,Greg Woodman,State College,PA 
+FN,23,FALSE,21,Daniel Bair,State College,PA 
+FN,23.05,FALSE,18,T J Rodgers,Port Matilda,PA 
+FN,23.083,FALSE,21,Michael Scott,Duboise,PA 
+FN,23.083,FALSE,51,James Quigel,State College,PA 
+FN,23.117,TRUE,43,Kim Gasper,Bellefonte,PA 
+FN,23.167,FALSE,39,Donald Baum,State College,PA 
+FN,23.183,FALSE,24,Keith Mitchell,Silver Spring,MD 
+FN,23.2,FALSE,45,Mark Bergstrom,State College,PA 
+FN,23.267,FALSE,28,Stephen Worley,Bellefonte,PA 
+FN,23.283,FALSE,23,Lucas Loht,Lewistown,PA 
+FN,23.283,FALSE,48,Greg Loht,Lewistown,PA 
+FN,23.333,FALSE,31,Anthony Dinallo,State College,PA 
+FN,23.35,FALSE,47,John Nagel,State College,PA 
+FN,23.367,FALSE,13,Kendall Ward,Port Matilda,PA 
+FN,23.367,FALSE,23,Robert Wade,Lewistown,PA 
+FN,23.367,FALSE,49,Ken Nafziger,Harrisonburg,VA 
+FN,23.4,TRUE,16,Bethany Maxfield,Boalsburg,PA 
+FN,23.417,TRUE,38,Ines Gibson,West Point,NY 
+FN,23.433,FALSE,55,Barry Kernfeld,State College,PA 
+FN,23.45,TRUE,34,Kristin Kopp,Lancaster,PA 
+FN,23.467,TRUE,37,Ann Jackson,Lancaster,PA 
+FN,23.55,FALSE,17,Kevin Folk,Beaver Springs,PA 
+FN,23.567,FALSE,36,Matt Dixon,Port Matilda,PA 
+FN,23.567,TRUE,37,Becky Green-Dixon,Port Matilda,PA 
+FN,23.583,FALSE,39,John Eisinger,Alexandria,VA 
+FN,23.6,FALSE,26,Jamie Hall,Bellefonte,PA 
+FN,23.633,TRUE,14,Devyn Lee,Pa Furnace,PA 
+FN,23.633,FALSE,42,Greg Allen,State College,PA 
+FN,23.65,FALSE,44,Steve Gasper,Bellefonte,PA 
+FN,23.717,FALSE,44,Michael Nordberg,Boalsburg,PA 
+FN,23.733,FALSE,28,Kelley Benson,Ada,OK 
+FN,23.733,FALSE,41,Rick Vaughan,Port Matilda,PA 
+FN,23.833,FALSE,36,Eric Cummings,State College,PA 
+FN,23.917,FALSE,48,Jack Chernega,State College,PA 
+FN,23.95,TRUE,40,Sue Challis,State College,PA 
+FN,23.967,TRUE,36,Christine Rodgers,Bellefonte,PA 
+FN,23.983,TRUE,15,Tia Dudukovich,Port Matilda,PA 
+FN,23.983,FALSE,47,Roy Love,Boalsburg,PA 
+FN,24,TRUE,16,Sarah Small,State College,PA 
+FN,24.017,TRUE,38,Carole Dudukovich,Port Matilda,PA 
+FN,24.067,FALSE,13,Patrick Moore,State College,PA 
+FN,24.083,FALSE,47,David Degroote,State College,PA 
+FN,24.083,FALSE,50,Tom Mitchell,Port Matilda,PA 
+FN,24.117,FALSE,45,Jeffrey Henderson,PA Furnace,PA 
+FN,24.15,FALSE,54,Barry Lee,Pa Furnace,PA 
+FN,24.167,TRUE,50,Teresa Timmerman,State College,PA 
+FN,24.333,FALSE,40,Paul Takac,Pleasant Gap,PA 
+FN,24.35,TRUE,32,Tracy Piper,State College,PA 
+FN,24.417,FALSE,26,Steve Klebacha,State College,PA 
+FN,24.433,FALSE,26,Jerrel Brubaker,Lewisburg,PA 
+FN,24.433,FALSE,29,Lawence Ord,State College,PA 
+FN,24.45,FALSE,56,Frank Dougherty,State College,PA 
+FN,24.483,FALSE,44,Mark Griffin,State College,PA 
+FN,24.567,FALSE,20,Corey Rodgers,Port Matilda,PA 
+FN,24.583,FALSE,59,Jerry Steffy,State College,PA 
+FN,24.65,TRUE,18,Katie Kisenwether,State College,PA 
+FN,24.65,TRUE,32,Erin Rehrig,Port Matilda,PA 
+FN,24.7,TRUE,49,Liz Kisenwether,State College,PA 
+FN,24.767,TRUE,42,Lorna Arocena,State College,PA 
+FN,24.967,FALSE,47,Scott Henderson,Pa Furnace,PA 
+FN,25,FALSE,22,Benjamin Ferry,Altoona,PA 
+FN,25.017,FALSE,41,Dave Fecko,State College,PA 
+FN,25.033,TRUE,28,Jen Brubaker,Lewisburg,PA 
+FN,25.05,TRUE,40,Julie Christie,State College,PA 
+FN,25.05,FALSE,41,Michael Hippo,Altoona,PA 
+FN,25.15,TRUE,14,Michelle Herman,Altoona,PA 
+FN,25.15,FALSE,49,Jim Holtzman,Williamsport,PA 
+FN,25.167,FALSE,19,Chris Bair,State College,PA 
+FN,25.183,FALSE,48,Norb Baiel,Spring Mills,PA 
+FN,25.367,TRUE,48,Kate Mount,State College,PA 
+FN,25.383,TRUE,39,Lisa Copenhaver,State College,PA 
+FN,25.45,TRUE,45,Erica Nodell,State College,PA 
+FN,25.517,TRUE,33,Amanda Brooks,Tyrone,PA 
+FN,25.583,TRUE,19,Maggie Selzer,State College,PA 
+FN,25.6,TRUE,19,Cynthia Lin,State College,PA 
+FN,25.617,TRUE,10,Allison Scott,State College,PA 
+FN,25.633,TRUE,28,Joy Mattern,Bellefonte,PA 
+FN,25.65,TRUE,37,Buffy Baker,,
+FN,25.667,TRUE,12,Dylan Kubina,State College,PA 
+FN,25.683,FALSE,37,Greg Scott,State College,PA 
+FN,25.8,FALSE,44,Greg Hilleyes,State College,PA 
+FN,25.8,TRUE,48,Debra Latta,Port Matilda,PA 
+FN,25.817,FALSE,13,Phillip Hall,State College,PA 
+FN,25.817,TRUE,37,Tammy Domico,Boalsburg,PA 
+FN,25.867,FALSE,15,Brandon Hallberg,Port Matilda,PA 
+FN,25.867,TRUE,23,Jennifer Zahert,Berkeley,CA 
+FN,25.867,TRUE,50,Joan Pitchie,Port Matilda,PA 
+FN,25.9,TRUE,24,Cori Thatcher,Pine Grove Mills,PA 
+FN,25.917,TRUE,41,Judy Hall,State College,PA 
+FN,25.95,FALSE,50,Jamie Larsen,State College,PA 
+FN,25.967,FALSE,57,Ted Krichels,Boalsburg,PA 
+FN,26.033,FALSE,9,Jake Garrigan,State College,PA 
+FN,26.033,FALSE,10,Sam Bollinger,State College,PA 
+FN,26.1,FALSE,30,Troy Williams,Victor,ID 
+FN,26.15,FALSE,31,Michael Styker,State College,PA 
+FN,26.2,TRUE,32,Julie Dann,State College,PA 
+FN,26.233,FALSE,49,Dan Mount,State College,PA 
+FN,26.25,TRUE,36,Tasha Snyder,State College,PA 
+FN,26.283,FALSE,44,Ari Geselowitz,Port Matilda,PA 
+FN,26.4,FALSE,45,Preston Raymond,West Decatur,PA 
+FN,26.467,FALSE,21,Joaquin Obieta,State College,PA 
+FN,26.5,TRUE,36,Colleen Sheehan,Boalsburg,PA 
+FN,26.5,FALSE,54,David Roy Gummo,State College,PA 
+FN,26.533,FALSE,36,John Sheehan,Boalsburg,PA 
+FN,26.6,TRUE,20,Kristin Manusowski,Port Matilda,PA 
+FN,26.6,FALSE,46,Steve Maruszewski,Port Matilda,PA 
+FN,26.667,TRUE,38,Stevie Rocco,Pa Furnace,PA 
+FN,26.667,FALSE,63,Courtney Burroughs,State College,PA 
+FN,26.7,TRUE,42,Dianne McMurtry,State College,PA 
+FN,26.733,TRUE,26,Christine Sefchick,State College,PA 
+FN,26.783,TRUE,15,Rebekah Cordell,State College,PA 
+FN,26.817,FALSE,44,Barry Weakland,Hastings,PA 
+FN,26.967,FALSE,49,Ken Covert,Cassville,PA 
+FN,27,TRUE,40,Gloria Leous,State College,PA 
+FN,27.017,TRUE,27,Jade Benson,Ada,OK 
+FN,27.033,FALSE,54,Bob Stonis,State College,PA 
+FN,27.05,FALSE,21,Kurt Rosenberger,Harrisonburg,VA 
+FN,27.05,TRUE,24,Laura Rosenberger,Philadelphia,PA 
+FN,27.083,FALSE,67,Lee Rhodes Jr.,Lebanon,PA 
+FN,27.15,TRUE,31,Leslie Dutchcot,State College,PA 
+FN,27.233,FALSE,53,Jim Croyle,Petersburg,PA 
+FN,27.233,FALSE,56,Dennis McDowell,Mingoville,PA 
+FN,27.25,FALSE,56,James Garthe,Petersburg,PA 
+FN,27.267,TRUE,15,Katie Zaleskiewicz,Westminster,MD 
+FN,27.267,TRUE,33,Toni Auman,Bellefonte,PA 
+FN,27.283,TRUE,51,Susan R Croyle,Petersburg,PA 
+FN,27.283,FALSE,54,Doug Johnson,Bellefonte,PA 
+FN,27.317,FALSE,40,Erik Zaleskiewicz,Westminster,MD 
+FN,27.317,TRUE,41,Sue Taylor,Duncansville,PA 
+FN,27.383,FALSE,9,Michael Hall,State College,PA 
+FN,27.417,FALSE,29,Marc Maxson,,
+FN,27.45,FALSE,45,Mike Hall,State College,PA 
+FN,27.483,TRUE,19,Sarah Nelson,State College,PA 
+FN,27.483,FALSE,20,Gannon Nordberg,Boalsburg,PA 
+FN,27.55,FALSE,39,John Williams,State College,PA 
+FN,27.583,TRUE,40,Regan Takec,Pleasant Gap,PA 
+FN,27.583,FALSE,47,Jeffrey McClarren,Howard,PA 
+FN,27.633,TRUE,19,Rachael Fye,State College,PA 
+FN,27.65,FALSE,51,Larry Ferry,Altoona,PA 
+FN,27.683,TRUE,25,Heather Katcher,Hummelstown,PA 
+FN,27.7,FALSE,53,Emory Marshall,Centre Hall,PA 
+FN,27.717,FALSE,48,Don Mathews,Belleville,PA 
+FN,27.733,TRUE,21,Melissa Wible,Mattawana,PA 
+FN,27.733,TRUE,48,Brenda Mathews,Belleville,PA 
+FN,27.783,TRUE,42,Dawn Comly,Port Royal,PA 
+FN,27.817,FALSE,44,Michael McAuliffe,State College,PA 
+FN,27.883,FALSE,7,Benjamin Garis,State College,PA 
+FN,27.9,FALSE,45,Jeff Kozody,Lock Haven,PA 
+FN,27.917,TRUE,9,Kayla Askey,Tafton,PA 
+FN,27.917,TRUE,49,Mary Steinbacher,Lock Haven,PA 
+FN,27.933,FALSE,51,Kevin Bender,State College,PA 
+FN,27.967,TRUE,21,Karen Pongrance,State College,PA 
+FN,27.967,FALSE,46,John Hook,State College,PA 
+FN,27.983,TRUE,41,Kelly Crawford,State College,PA 
+FN,27.983,TRUE,51,Kristin Keefer,Montoursville,PA 
+FN,28,TRUE,19,Christine Weldon,Howard,PA 
+FN,28,TRUE,44,Denise St. Pierre,State College,PA 
+FN,28,TRUE,46,Lore Weldon,Howard,PA 
+FN,28,TRUE,59,Rosemary Demer,State Colege,PA 
+FN,28.15,FALSE,48,Steve Sorige,Montoursville,PA 
+FN,28.167,TRUE,12,Kathryn McNaughton,State College,PA 
+FN,28.183,TRUE,51,Janice Light,State College,PA 
+FN,28.217,TRUE,18,Samantha Melonas,Port Matilda,PA 
+FN,28.233,FALSE,27,Decha Sermwittayawong,State College,PA 
+FN,28.233,TRUE,41,Sandy Gabel,Boalsburg,PA 
+FN,28.25,TRUE,47,Nancy Nagel,State College,PA 
+FN,28.267,TRUE,37,Lori Williams,State College,PA 
+FN,28.3,TRUE,49,Martha Freeman,State College,PA 
+FN,28.333,TRUE,36,Roxanne Shiels,Julian,PA 
+FN,28.5,TRUE,44,Lisa Mazzocchi,State College,PA 
+FN,28.517,TRUE,24,Shannon Luckovich,Brookline,MA 
+FN,28.717,TRUE,18,Sarah Wilson,Lewistown,PA 
+FN,28.733,FALSE,39,Kirk Pasqualle,State College,PA 
+FN,28.75,FALSE,27,Petr Konecny,State College,PA 
+FN,28.767,FALSE,11,Eric Garis,State College,PA 
+FN,28.95,FALSE,61,Ed Perry,Boalsburg,PA 
+FN,28.967,FALSE,14,Demitri Mouterelis,State College,PA 
+FN,28.983,TRUE,26,Nika Konecna,State College,PA 
+FN,29.017,FALSE,58,Mark Henry,Spring Mills,PA 
+FN,29.083,TRUE,23,Amy Waugh,Harrisburg,PA 
+FN,29.15,TRUE,31,Kristin Sekula,State College,PA 
+FN,29.15,FALSE,58,Larry Miles,State College,PA 
+FN,29.183,FALSE,41,Del Fuller,State College,PA 
+FN,29.25,TRUE,7,Julia Anderson,State College,PA 
+FN,29.25,TRUE,7,Natasha Fedkina,State College,PA 
+FN,29.267,TRUE,39,Karen Conroy,Boalsburg,PA 
+FN,29.3,FALSE,41,John Conroy,Boalsburg,PA 
+FN,29.317,FALSE,35,Jeff Sekula,State College,PA 
+FN,29.333,TRUE,39,Lisa Ingle,,
+FN,29.35,TRUE,34,Emily Brassington,State College,PA 
+FN,29.4,FALSE,9,Drew Pultorak,Philadelphia,PA 
+FN,29.4,FALSE,43,David Pultorak,Philadelphia,PA 
+FN,29.433,FALSE,51,Frank Logue,Indiana,PA 
+FN,29.45,FALSE,53,Bob Stevens,State College,PA 
+FN,29.45,FALSE,69,Carl Miller,Bellefonte,PA 
+FN,29.483,FALSE,13,Garrett Wagner,State College,PA 
+FN,29.5,TRUE,55,Chris Miner,Snyder,NY 
+FN,29.55,FALSE,52,Stan Latta,Port Matilda,PA 
+FN,29.567,FALSE,34,Chris Wagner,State College,PA 
+FN,29.667,TRUE,14,Laura Prince,State College,PA 
+FN,29.667,TRUE,49,Valerie Prince,State College,PA 
+FN,29.7,TRUE,12,Anna Prince,State College,PA 
+FN,29.7,FALSE,13,Andy Foard,State College,PA 
+FN,29.717,TRUE,52,Carol Zeiss,Pa Furnace,PA 
+FN,29.833,TRUE,37,Kelly Wilkins,Boalsburg,PA 
+FN,29.85,FALSE,11,Nathan Davis,Warriors Mark,PA 
+FN,29.933,FALSE,68,Bill Reilly,Centre Hall,PA 
+FN,30.133,FALSE,35,Todd Litzinger,State College,PA 
+FN,30.35,TRUE,36,Anne Boal,State College,PA 
+FN,30.433,TRUE,26,Jennifer McCauley,State College,PA 
+FN,30.517,FALSE,17,Paul Shan,Port Matilda,PA 
+FN,30.533,TRUE,11,Nora Adams,Boalsburg,PA 
+FN,30.583,TRUE,43,Nancy Hallberg,Port Matilda,PA 
+FN,30.6,TRUE,23,Susan Krosunger,State College,Pa` 
+FN,30.783,TRUE,31,Neda Colyer,State College,PA 
+FN,30.8,FALSE,54,Anson Burwell,State College,PA 
+FN,30.917,TRUE,9,Robin Derr,State College,PA 
+FN,30.95,TRUE,31,Betzi Kline,Frederick,MD 
+FN,30.967,TRUE,44,Tish Derr,State College,PA 
+FN,31.133,TRUE,42,Judy Cerenzia,State College,PA 
+FN,31.15,TRUE,17,Sarah Mazzocchi,State College,PA 
+FN,31.183,FALSE,12,Joe Woodman,State College,PA 
+FN,31.2,TRUE,20,Willa Posterson,Woodward,PA 
+FN,31.233,FALSE,58,Chuck Phillips,State College,PA 
+FN,31.25,TRUE,52,Molly Buchanan,Woodward,PA 
+FN,31.35,TRUE,12,Heather Derr,State College,PA 
+FN,31.35,FALSE,49,Jeff Derr,State College,PA 
+FN,31.367,FALSE,37,Mike Gallo,Boalsburg,PA 
+FN,31.417,TRUE,12,Maggie Davis,Warriors Mark,PA 
+FN,31.433,TRUE,35,Rebecca Garis,State College,PA 
+FN,31.467,TRUE,44,Elizabeth Adams,Boalsburg,PA 
+FN,31.517,FALSE,11,Owen Welch,Lewistown,PA 
+FN,31.517,TRUE,15,Rosa Frank,State College,PA 
+FN,31.533,FALSE,48,Thad E Ritter,Philipsburg,PA 
+FN,31.617,TRUE,46,Debbie Hilands,State College,PA 
+FN,31.7,FALSE,22,Brian Miller,Middleburg,PA 
+FN,31.717,TRUE,18,Ang Weaver,Selinsgrove,PA 
+FN,31.783,TRUE,59,Susan Freeland,Philadelphia,PA 
+FN,31.8,FALSE,45,David McNaughton,State College,PA 
+FN,31.817,FALSE,12,Matthew McNaughton,State College,PA 
+FN,31.867,TRUE,46,Lori Maxfield,Boalsburg,PA 
+FN,31.9,TRUE,41,Irene Hicks,State College,PA 
+FN,31.9,FALSE,42,Bob Hicks,State College,PA 
+FN,32.05,TRUE,27,Meghann Robinson,State College,PA 
+FN,32.083,FALSE,30,Scott Pezanowski,,
+FN,32.233,TRUE,24,Leeanne Talbott,State College,PA 
+FN,32.267,TRUE,31,Becky Bliss,York,PA 
+FN,32.383,TRUE,11,Claire Domico,Boalsburg,PA 
+FN,32.433,FALSE,59,James Rosenberger,State College,PA 
+FN,32.45,TRUE,38,Melissa Quick,Fleming,PA 
+FN,32.467,TRUE,30,Kristen Gresh,Pa Furnace,PA 
+FN,32.483,TRUE,18,Kathryn Wilson,,
+FN,32.483,TRUE,18,Stephanie Wilson,Lewistown,PA 
+FN,32.483,TRUE,30,Kate Pezanowski,State College,PA 
+FN,33.017,FALSE,13,Max Mazzocchi,State College,PA 
+FN,33.217,FALSE,51,Conrad Garcia,Lemont,PA 
+FN,33.267,TRUE,21,Christie Prince,State College,PA 
+FN,33.283,TRUE,10,Katie Heininger,State College,PA 
+FN,33.317,FALSE,53,Ed Prince,State College,PA 
+FN,33.35,TRUE,44,Anita Woodman,State College,PA 
+FN,33.367,TRUE,13,Sara Larsen,State College,PA 
+FN,33.367,TRUE,49,Liz Larsen,State College,PA 
+FN,33.383,FALSE,8,Nate Woodman,State College,PA 
+FN,33.45,TRUE,48,Kirsten Jensen,State College,PA 
+FN,33.517,TRUE,36,Stefanie Yeager,State College,PA 
+FN,33.533,FALSE,61,Robert Hampton,State College,PA 
+FN,33.833,FALSE,36,Doba Jackson,State College,PA 
+FN,34.383,TRUE,41,Denise Weaver,Pleasant Gap,PA 
+FN,34.717,TRUE,12,Hannah Mazzocchi,State College,PA 
+FN,34.817,TRUE,40,Connie Welch,Lewistown,PA 
+FN,34.817,FALSE,42,Gail Dunmire,Bellefonte,PA 
+FN,34.85,TRUE,31,Christine Brubaker,Mifflinburg,PA 
+FN,34.867,FALSE,29,Curt Brubaker,Mifflinburg,PA 
+FN,34.883,FALSE,43,Ray Mazzocchi,State College,PA 
+FN,34.917,TRUE,24,Angela Mitchell,Silver Spring,MD 
+FN,35.183,TRUE,10,Emily Birmingham,Port Matilda,PA 
+FN,35.2,TRUE,40,Diane Birmingham,Port Matilda,PA 
+FN,35.217,TRUE,12,Elle Matalavage,State College,PA 
+FN,35.233,TRUE,12,Christine Vruwink,State College,PA 
+FN,35.667,FALSE,78,Truman Hershberger,State College,PA 
+FN,35.783,FALSE,42,David Brundage,Lock Haven,PA 
+FN,36.333,TRUE,49,Lisa Reiss,Sonnnyvale,CA 
+FN,36.383,TRUE,24,Erin Marshall,Boalsburg,PA 
+FN,36.517,TRUE,24,Katie Myeers,Boalsburg,PA 
+FN,37.133,TRUE,34,Frodo Mitchell,State College,PA 
+FN,37.133,TRUE,36,Misty Forbes,State College,PA 
+FN,37.133,TRUE,42,Julie Lammel,State College,PA 
+FN,37.15,FALSE,85,George Etzweiler,State College,PA 
+FN,37.167,FALSE,59,Larry Etzweiler,Lawrenceville,NJ 
+FN,37.45,TRUE,10,Jenny Rodgers,Port Matilda,PA 
+FN,37.633,FALSE,45,Tom Rodgers,Port Matilda,PA 
+FN,37.633,FALSE,48,Barry Belinda,Pa Furnace,PA 
+FN,37.667,TRUE,32,Andrea Pfordten,Bethesda,MD 
+FN,37.717,TRUE,32,Lisa McNerney,Williamsport,PA 
+FN,37.85,FALSE,37,Aaron Tyburski,Fairbanks,AK 
+FN,39.017,TRUE,11,Alexis Kubina,State College,PA 
+FN,39.583,FALSE,55,Joe Miner,Snyder,NY 
+FN,39.617,TRUE,7,Sarah Scott,State College,PA 
+FN,39.633,FALSE,75,Harry Groves,State College,PA 
+FN,39.8,TRUE,30,Amy Banerjee,State College,PA 
+FN,39.8,TRUE,39,Pam Guiney,State College,PA 
+FN,39.817,FALSE,36,Robert McCauley,State College,PA 
+FN,39.817,TRUE,40,Julia Fecko,State College,PA 
+FN,40.45,TRUE,10,Brittany Kline,Frederick,MD 
+FN,40.467,TRUE,32,Sonja Kline,Frederick,MD 
+FN,40.633,FALSE,7,Rhett Kline,Frederick,MD 
+FN,40.633,FALSE,36,David Kline,Frederick,MD 
+FN,41.017,TRUE,29,Jessica Hartle,Thompsontown,PA 
+FN,42.45,TRUE,8,Sarah Heininger,State College,PA 
+FN,42.467,FALSE,48,Dave Heininger,State College,PA 
+FN,43.083,TRUE,33,Rebecca Miles,Alexandria,VA 
+FN,43.233,TRUE,6,Mary Davis,Warriors Mark,PA 
+FN,43.233,TRUE,40,Debbie Smart,Warriors Mark,PA 
+FN,43.267,TRUE,58,Jan Miles,State College,PA 
+FN,43.9,TRUE,39,Eva Polizzi,State College,PA 
+FN,43.967,FALSE,37,Joseph Polizzi,State College,PA 
+FN,44.017,TRUE,57,Ruth Henry,Spring Mills,PA 
+FN,44.3,TRUE,40,Mary Zaleskiewicz,Westminster,MD 
+FN,44.4,TRUE,42,Joan Savage,State College,PA 
+FN,44.733,FALSE,32,Richard Fickes,Beech Creek,PA 
+FN,44.75,TRUE,31,Michelle Fickes,Beech Creek,PA 
+FN,47.533,TRUE,11,Casey Sommers,State College,PA 
+FN,47.533,TRUE,41,Beth Scott,State College,PA 
+FN,47.567,TRUE,38,Sheri Kubina,State College,PA 
+FN,47.733,TRUE,46,Laura Sommers,State College,PA 
+FN,54.683,TRUE,24,Melissa Charez,State College,PA 
+FN,54.683,FALSE,24,David Charez,State College,PA 
+FN,54.683,TRUE,62,Linda Friedman,State College,PA 
