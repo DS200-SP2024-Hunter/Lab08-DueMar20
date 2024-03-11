@@ -1,16 +1,17 @@
 # Lab Assignment 08, Due on [Canvas](https://psu.instructure.com/courses/2306358/assignments/16003002?module_item_id=41285277), Mar. 20 at 11:59pm
 ## Examine Gender Difference in Median Finishing Time for a 5K Road Race
 
-The main objective of today's lab is to use a dataset gleaned from publicly-available data to give an estimate with a confidence interval obtained via bootstrapping.
+The main objective of today's lab is to use a dataset gleaned from publicly-available data to compare two groups using two different methods: testing and confidence intervals.
 The data come from race results that can be scraped from the website of the Nittany Valley Running Club at [https://www.nvrun.com/](https://www.nvrun.com/).
 
-## To edit below.  Idea:  Ask for both an A/B randomization test and a bootstrap confidence interval
 
 **Objective**: Compare males with females for a particular 5K race using both a hypothesis test (Chapter 12) and a bootstrapped confidence interval (Chapter 13).
 In the dataset, each runner identified as either F for female or M for male at the time of race registration.  The cleaned dataset may be found here:
 ```
 https://raw.githubusercontent.com/DS200-SP2024-Hunter/Lab08-DueMar20/main/FiveKResults.csv
 ```
+
+## To edit below.  Idea:  Ask for both an A/B randomization test and a bootstrap confidence interval
 
 **OLD Objective**:  Modify the code in [Section 13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
 so that it loads the dataset represented by the `http://personal.psu.edu/drh20/200DS/assets/data/FiveKResults.csv` 
