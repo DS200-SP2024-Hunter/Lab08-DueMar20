@@ -4,6 +4,11 @@
 The main objective of today's lab is to use a dataset gleaned from publicly-available data to give an estimate with a confidence interval obtained via bootstrapping.
 The data come from race results that can be scraped from the website of the Nittany Valley Running Club at [https://www.nvrun.com/](https://www.nvrun.com/).
 
+The cleaned-up dataset can be found on this GitHub repository at the following link:
+```
+https://raw.githubusercontent.com/DS200-SP2024-Hunter/Lab08-DueMar20/main/FiveKResults.csv
+```
+
 ## To edit below.  Idea:  Ask for both an A/B randomization test and a bootstrap confidence interval
 
 **Objective**:  Modify the code in [Section 13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
