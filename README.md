@@ -1,5 +1,5 @@
 # Lab Assignment 08, Due on [Canvas](https://psu.instructure.com/courses/2306358/assignments/16003002?module_item_id=41285277), Mar. 20 at 11:59pm
-## Examine Gender Difference in Median Finishing Time for 5K Road Races
+## Examine Gender Difference in Median Finishing Time for a 5K Road Race
 
 The main objective of today's lab is to use a dataset gleaned from publicly-available data to give an estimate with a confidence interval obtained via bootstrapping.
 The data come from race results that can be scraped from the website of the Nittany Valley Running Club at [https://www.nvrun.com/](https://www.nvrun.com/).
