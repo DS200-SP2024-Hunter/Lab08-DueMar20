@@ -4,14 +4,15 @@
 The main objective of today's lab is to use a dataset gleaned from publicly-available data to give an estimate with a confidence interval obtained via bootstrapping.
 The data come from race results that can be scraped from the website of the Nittany Valley Running Club at [https://www.nvrun.com/](https://www.nvrun.com/).
 
-The cleaned-up dataset can be found on this GitHub repository at the following link:
+## To edit below.  Idea:  Ask for both an A/B randomization test and a bootstrap confidence interval
+
+**Objective**: Compare males with females for a particular 5K race using both a hypothesis test (Chapter 12) and a bootstrapped confidence interval (Chapter 13).
+In the dataset, each runner identified as either F for female or M for male at the time of race registration.  The cleaned dataset may be found here:
 ```
 https://raw.githubusercontent.com/DS200-SP2024-Hunter/Lab08-DueMar20/main/FiveKResults.csv
 ```
 
-## To edit below.  Idea:  Ask for both an A/B randomization test and a bootstrap confidence interval
-
-**Objective**:  Modify the code in [Section 13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
+**OLD Objective**:  Modify the code in [Section 13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
 so that it loads the dataset represented by the `http://personal.psu.edu/drh20/200DS/assets/data/FiveKResults.csv` 
 file as a `Table` object and implement bootstrapping to obtain a confidence interval for the
 population parameter (&mu;<sub>F</sub> – &mu;<sub>M</sub>), the difference between mean 5 kilometer road race finishing time for females and mean finishing time for males.
