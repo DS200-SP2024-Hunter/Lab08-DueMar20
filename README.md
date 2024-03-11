@@ -1,8 +1,11 @@
 # Lab Assignment 08, Due on [Canvas](https://psu.instructure.com/courses/2306358/assignments/16003002?module_item_id=41285277), Mar. 20 at 11:59pm
-## Examine Gender Difference in Median Finishing Time for a 5K Road Race
+## Examine Gender Difference in Mean Finishing Time for a 5K Road Race
+
+**On this and all labs for the rest of the semester: When you have a choice between the [datascience package](https://www.data8.org/datascience/) and the [pandas library](https://pandas.pydata.org/docs/), you are free to use either method to complete your work.**
 
 The main objective of today's lab is to use a dataset gleaned from publicly-available data to compare two groups using two different methods: testing and confidence intervals.
 The data come from race results that can be scraped from the website of the Nittany Valley Running Club at [https://www.nvrun.com/](https://www.nvrun.com/).
+We will assume that the runners in this race are a representative sample, some male and some female, from hypothetical populations of all recreational male 5K runners and all female 5K runners.  (You might ponder whether this is a reasonable assumption, but it's not necessary for you to comment on this question for this assignment.)
 
 
 **Objective**: Compare males with females for a particular 5K race using both a hypothesis test (Chapter 12) and a bootstrapped confidence interval (Chapter 13).
@@ -11,29 +14,22 @@ In the dataset, each runner identified as either F for female or M for male at t
 https://raw.githubusercontent.com/DS200-SP2024-Hunter/Lab08-DueMar20/main/FiveKResults.csv
 ```
 
-## To edit below.  Idea:  Ask for both an A/B randomization test and a bootstrap confidence interval
-
-**OLD Objective**:  Modify the code in [Section 13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
-so that it loads the dataset represented by the `http://personal.psu.edu/drh20/200DS/assets/data/FiveKResults.csv` 
-file as a `Table` object and implement bootstrapping to obtain a confidence interval for the
-population parameter (&mu;<sub>F</sub> – &mu;<sub>M</sub>), the difference between mean 5 kilometer road race finishing time for females and mean finishing time for males.
-(NB:  In the original data, each runner identified as either F for female or M for male at the time of race registration.)
-
 **Your assignment** is as follows:
 
-1. Load the Jupyter notebook for [Section 13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html) of the textbook from GitHub as you've done in the past. You might want to change the `path_data` object so that it points to the URL where the dataset can be found:  `http://personal.psu.edu/drh20/200DS/assets/data/`
+1. Load the dataset (the URL is given above) into python. Give it a name like `fiveK`.
 
-2. Read the dataset from the `FiveKResults.csv` file as a `Table` object and give it a name like `fiveK`.  For this purpose, use the `read_table` method as in the first code block of Section 13.2.1.
+2. Perform an A/B test of the null hypothesis that the hypothetical average male time in this race equals the hypothetical average female time in this race, among all 5K runners. For this purpose, you can either use the `difference_of_means` function as in [Section 12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html) or you can adapt this idea to pandas.
 
-3. Just as in Section 13.2.6, it will be possible to use the `sample()` method with no arguments to accomplish the bootstrapping.  However, there is a subtle point in this case:  We should make sure that each bootstrap sample has the same number of females as the original, since we're finding the difference of two sample means (one female, one male) and the sample sizes are important in determining the behavior of sample means.  Therefore, you'll want to create two separate Tables, one for females and one for males.  You can use code such as this:
+3. Plot the histogram of mean differences that you obtain by simulation under the null hypothesis of no mean difference. Compare this histogram to the value observed in the sample, calculate a p-value, and comment on what this p-value tells you in this case about whether we should reject the null hypothesis.
+
+4. Construct a confidence interval for the true mean difference (male mean minus female mean) using bootstrapping.  Just as in [Section 13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html), it will be possible to use the `sample()` method with no arguments to accomplish the bootstrapping.  However, there is a subtle point in this case:  We should make sure that each bootstrap sample has the same number of females as the original, since we're finding the difference of two sample means (one female, one male) and the sample sizes are important in determining the behavior of sample means.  Therefore, you'll want to create two separate Tables, one for females and one for males.  If you're using the `datascience` package, You can use code such as this:
 ```
 fiveK_Male = fiveK.where('Identifies As Female', False)
 fiveK_Female = fiveK.where('Identifies As Female', True)
 ```
+Make sure that the pdf file you turn in includes how many cases there are in both the female and the male Tables.
 
-4. In the pdf file you turn in, include python code that reveals how many cases there are in both the female and the male Tables.
-
-5. Rewrite the function `one_bootstrap_median` in Section 13.2.6. so that it selects one bootstrap sample for females, another for males, then returns the difference of the two mean finishing times.  Here is code that accomplishes this:
+5. Rewrite the function `one_bootstrap_median` in Section 13.2.6. so that it selects one bootstrap sample for females, another for males, then returns the difference of the two mean finishing times.  Here is code that accomplishes this if you're using the `datascience` package:
 ```
 def one_bootstrap_mean_difference():
     resampled_Females = fiveK_Female.sample()
@@ -48,11 +44,7 @@ def one_bootstrap_mean_difference():
 
 7. Find the 2.5 and 97.5 percentiles of your mean difference distribution, and use these values as a 95% confidence interval.  You should include a text box in your output that says "We are 95% confident that the true difference in mean 5K road race finishing times between females and males is between ----- and -----." (You will fill in the blanks.)
 
-8. Discuss which population you think the statement in step 7 might be valid for.  In other words, what populuation do you think our original sample can reasonably be assumed to represent?
-
-9. _(Optional, for an extra point):_ The original dataset covers two different races, the First Night 5K and the Arts Festival 5K.  There are 24 people who ran both of them.  Create a new dataset with these 24 people, and give a bootstrapped 95% confidence interval for the mean difference between an individual's First Night finishing time and that individual's Arts Fest finishing time.  As above, discuss which population you think this result might apply to.
-
-10.  Finally, make sure that your Jupyter notebook only includes code and text that is relevant to this assignment.  For instance, if you have been completing this assignment by editing the original code from Section 13.2, make sure to delete the material that isn't relevant before turning in your work.
+8.  Finally, make sure that your Jupyter notebook only includes code and text that is relevant to this assignment.  For instance, if you have been completing this assignment by editing some original code from Section 12.1 or Section 13.2, make sure to delete the material that isn't relevant before turning in your work.
 
 When you've completed this, you should select "Print" from the File menu, then save to pdf using this option.  The pdf file that you create in this way is the file that you should upload to Canvas for grading.  We have found that if you can select the "A3" paper size from the advanced options, this seems to solve the problems that are sometimes encountered in this step.
 
