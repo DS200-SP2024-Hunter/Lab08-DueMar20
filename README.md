@@ -8,7 +8,7 @@ The data come from race results that can be scraped from the website of the Nitt
 We will assume that the runners in this race are a representative sample, some male and some female, from hypothetical populations of all recreational male 5K runners and all female 5K runners.  (You might ponder whether this is a reasonable assumption, but it's not necessary for you to comment on this question for this assignment.)
 
 
-**Objective**: Compare males with females for a particular 5K race using both a randomization-based hypothesis test ([Chapter 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)) and a bootstrapped confidence interval ([Chapter 13](https://inferentialthinking.com/chapters/13/Estimation.html)).
+**Objective**: Compare males with females for a particular 5K race using both a permutation-based hypothesis test ([Chapter 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)) and a bootstrapped confidence interval ([Chapter 13](https://inferentialthinking.com/chapters/13/Estimation.html)).
 In the dataset, each runner identified as either female or male at the time of race registration.  The cleaned dataset may be found here:
 ```
 https://raw.githubusercontent.com/DS200-SP2024-Hunter/Lab08-DueMar20/main/FiveKResults.csv
