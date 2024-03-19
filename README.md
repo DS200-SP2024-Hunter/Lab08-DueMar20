@@ -48,4 +48,4 @@ def one_bootstrap_mean_difference():
 
 When you've completed this, you should select "Print" from the File menu, then save to pdf using this option.  The pdf file that you create in this way is the file that you should upload to Canvas for grading.  We have found that if you can select the "A3" paper size from the advanced options, this seems to solve the problems that are sometimes encountered in this step.
 
-**A step-by-step approach to help with the tasks above is provided as a [Jupyter notebook that you can edit](https://github.com/DS200-SP2024-Hunter/Lab08-DueMar20/blob/main/Lab08SupplementaryNotebook.ipynb).**
+**A step-by-step approach to help with the tasks above is provided as a [Jupyter notebook that you can edit](https://github.com/DS200-SP2024-Hunter/Lab08-DueMar20/blob/main/Lab08SupplementaryNotebook.ipynb). There is also a [pandas-based notebook](https://github.com/DS200-SP2024-Hunter/Lab08-DueMar20/blob/main/Pandas_Lab_08_Additional_Notebook.ipynb) that you can use instead.**
